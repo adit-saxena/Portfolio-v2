@@ -397,6 +397,7 @@
              #connect p{
               font-weight: 200;
               margin-top: 20px;
+              text-align: left;
              }
   
              #connecttext {
@@ -496,7 +497,7 @@
           }
 
           .card:hover .cardimage img{
-            bottom: 30%;
+            bottom: 25vh;
             transition: ease-in-out 0.3s;
             
           }
@@ -551,7 +552,7 @@
             height: 90%;
             width: 90%;
             position: relative;
-            bottom: 0px;
+            bottom: 0vh;
             margin: auto;
             transition: ease-in-out 0.3s;
           }
