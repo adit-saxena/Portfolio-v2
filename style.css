@@ -439,7 +439,7 @@
             min-height: 100%;
             background-color: aquamarine;
             margin: 3px;
-            border-radius: 6%;
+            border-radius: 3%;
             display: flex;
             flex-direction: column;
             overflow: hidden;
@@ -593,5 +593,11 @@
             background: linear-gradient(180deg, #1B4C7E 0%, #2466A8 100%);
             
           }
+
+          #card9{
+            background: linear-gradient(180deg, #070C18 0%, #1D3667 100%);
+            
+          }
+
 
 
